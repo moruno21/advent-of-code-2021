@@ -1,11 +1,3 @@
-# codekata-template-typescript
+# 1-sonar-sweep
 
-To use this template open a terminal on the same folder and run
-
-    npm install 
-
-After that you will be ready to code.
-
-To run the test run:
-
-    npm test
+First day advent of code 2021
